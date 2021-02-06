@@ -1,2 +1,2 @@
-# wp_plugins
-Плагины для Wordpress
+# wordpress plugin
+Базовый плагин для Wordpress
